@@ -3,4 +3,3 @@ mkdocs-material
 pygments
 pymdown-extensions
 
-// These are the important files needed for application
